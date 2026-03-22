@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Medicinal Plant Identifier preview">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg2)"/>
+  <rect x="72" y="72" width="1056" height="531" rx="22" fill="#ffffff" stroke="#a7f3d0" stroke-width="3"/>
+  <rect x="112" y="120" width="450" height="435" rx="16" fill="#f0fdf4"/>
+  <rect x="590" y="120" width="490" height="120" rx="16" fill="#f0fdf4"/>
+  <rect x="590" y="260" width="490" height="120" rx="16" fill="#f0fdf4"/>
+  <rect x="590" y="400" width="490" height="155" rx="16" fill="#f0fdf4"/>
+  <ellipse cx="337" cy="320" rx="130" ry="190" fill="#34d399"/>
+  <path d="M337 145 C280 220, 260 350, 337 500 C414 350, 394 220, 337 145Z" fill="#10b981"/>
+  <rect x="640" y="160" width="240" height="22" rx="8" fill="#a7f3d0"/>
+  <rect x="640" y="196" width="180" height="18" rx="7" fill="#d1fae5"/>
+  <rect x="640" y="300" width="280" height="22" rx="8" fill="#a7f3d0"/>
+  <rect x="640" y="336" width="220" height="18" rx="7" fill="#d1fae5"/>
+  <rect x="640" y="438" width="380" height="20" rx="8" fill="#a7f3d0"/>
+  <rect x="640" y="472" width="330" height="18" rx="7" fill="#d1fae5"/>
+  <text x="640" y="152" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#065f46">Medicinal Plant Identifier</text>
+</svg>
