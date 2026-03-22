@@ -72,8 +72,12 @@ export function HeroSection() {
                 variant="outline"
                 className="group rounded-xl px-8 border-slate-300 text-slate-700 hover:bg-slate-100 bg-white/70 transition-all duration-300"
               >
-                <a href="#projects">
-                  View Projects
+                <a
+                  href="https://drive.google.com/file/d/1YZnl2bBYv4HN_kGuK2dxffRXQQGosOOy/view?usp=drive_link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  View Resume
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
                 </a>
               </Button>

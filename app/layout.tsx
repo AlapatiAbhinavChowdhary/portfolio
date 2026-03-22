@@ -38,7 +38,8 @@ export const metadata: Metadata = {
       "AI & ML developer portfolio showcasing machine learning projects, data science work, and full-stack applications.",
   },
   icons: {
-    icon: "/site-icon.svg",
+    icon: "/favicon-aac.svg",
+    shortcut: "/favicon-aac.svg",
     apple: "/apple-icon.png",
   },
 }

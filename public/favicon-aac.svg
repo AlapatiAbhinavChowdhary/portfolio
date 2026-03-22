@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 344 281" role="img" aria-label="AAC logo icon">
+  <rect width="344" height="281" fill="#000"/>
+
+  <g fill="#fff" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="118" letter-spacing="-2">
+    <text x="42" y="190">AAC</text>
+  </g>
+
+  <g fill="none" stroke="#fff" stroke-linecap="round" transform="rotate(-18 172 140)">
+    <ellipse cx="172" cy="140" rx="148" ry="66" stroke-width="8"/>
+    <ellipse cx="172" cy="140" rx="154" ry="72" stroke-width="2" opacity="0.9"/>
+  </g>
+</svg>
