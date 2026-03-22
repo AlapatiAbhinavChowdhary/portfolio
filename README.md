@@ -1,10 +1,10 @@
-# 🚀 Abhinav Chowdhary - Portfolio
+# 🚀 Alapati Abhinav Chowdhary - Portfolio
 
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience in AI/ML, Web Development, and Software Engineering.
 
 🔗 **Live Website:**
-https://abhinav-portfolio.vercel.app *(update if needed)*
+https://abhinav-portfolio.vercel.app
 
 ---
 
