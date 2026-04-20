@@ -85,6 +85,37 @@ Open: `http://localhost:3000`
 
 ---
 
+## 🐳 Docker
+
+Build the production image:
+
+```bash
+docker build -t portfolio-nextjs .
+```
+
+Run the container:
+
+```bash
+docker run -d --name portfolio -p 3000:3000 portfolio-nextjs
+```
+
+Or use Docker Compose:
+
+```bash
+docker compose up -d --build
+```
+
+Check status and logs:
+
+```bash
+docker ps
+docker logs portfolio
+```
+
+Open the site in your browser at `http://localhost:3000`.
+
+---
+
 ## 📸 Projects Included
 
 * 🔍 Intrusion Detection System (Python)
